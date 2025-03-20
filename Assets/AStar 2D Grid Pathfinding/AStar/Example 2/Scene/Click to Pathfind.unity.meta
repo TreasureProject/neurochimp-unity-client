@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f66ac2ccb4d98b44295c34b824e93642
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250080
+  packageName: AStar 2D Grid Pathfinding
+  packageVersion: 1.1
+  assetPath: Assets/AStar 2D Grid Pathfinding/AStar/Example 2/Scene/Click to Pathfind.unity
+  uploadId: 648400

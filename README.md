@@ -1,1 +1,1 @@
-# neurochimp-unity-client
+# neurochimp-unity-template

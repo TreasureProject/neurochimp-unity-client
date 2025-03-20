@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c2746a11a4dc754478671fb1a5900e37
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250080
+  packageName: AStar 2D Grid Pathfinding
+  packageVersion: 1.1
+  assetPath: Assets/AStar 2D Grid Pathfinding/AStar/Example 2/Scripts/Grid/GridManager.cs
+  uploadId: 648400

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9f04afdeeabd07e459a89d2eb84b94c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250080
+  packageName: AStar 2D Grid Pathfinding
+  packageVersion: 1.1
+  assetPath: Assets/AStar 2D Grid Pathfinding/AStar/Example 2/Prefabs/Tile.prefab
+  uploadId: 648400

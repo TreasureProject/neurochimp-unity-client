@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1166951f9dc61aa4ab04396df020f180
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250080
+  packageName: AStar 2D Grid Pathfinding
+  packageVersion: 1.1
+  assetPath: Assets/AStar 2D Grid Pathfinding/AStar/Example 2/Prefabs/Particle System.prefab
+  uploadId: 648400

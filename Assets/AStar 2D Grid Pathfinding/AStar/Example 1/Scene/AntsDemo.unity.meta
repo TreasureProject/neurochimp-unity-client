@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 148df7837e19ba34ab6d7cddf6ef702c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250080
+  packageName: AStar 2D Grid Pathfinding
+  packageVersion: 1.1
+  assetPath: Assets/AStar 2D Grid Pathfinding/AStar/Example 1/Scene/AntsDemo.unity
+  uploadId: 648400

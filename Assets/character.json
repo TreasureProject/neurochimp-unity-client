@@ -1,0 +1,41 @@
+{
+  "id": "",
+  "name": "",
+  "system": "",
+  "bio": [],
+  "lore": [],
+  "knowledge": [],
+  "messageExamples": [
+    [
+      {
+        "user": "{{user1}}",
+        "content": {
+          "text": "What's up?"
+        }
+      },
+      {
+        "user": "smol",
+        "content": {
+          "text": "I am up! Hang with me?"
+        }
+      }
+    ],
+    [
+      {
+        "user": "{{user1}}",
+        "content": {
+          "text": "Do you like bananas?"
+        }
+      },
+      {
+        "user": "smol",
+        "content": {
+          "text": "Everyone likes bananas!"
+        }
+      }
+    ]
+  ],
+  "postExamples": [],
+  "adjectives": [],
+  "topics": [],
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eddb16491fddbbf4c90210eb14f76fd3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250080
+  packageName: AStar 2D Grid Pathfinding
+  packageVersion: 1.1
+  assetPath: Assets/AStar 2D Grid Pathfinding/AStar/Example 3/Scenes/Minimal Example.unity
+  uploadId: 648400
